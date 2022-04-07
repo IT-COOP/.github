@@ -1,26 +1,65 @@
 ![image](https://user-images.githubusercontent.com/48893036/162188505-dc4b43b2-2f3c-4d94-8e84-65868cc4b2ef.png)
 
 # it-coop
+
 ## it-coop 소개
-<hr/>
+
 
 ## 핵심 기능
 
 
 <hr/>
+
 ## 프로젝트 소개
+
 ### 프로젝트 기간
-H3 MEMBER
-H3 
+
+### MEMBER
+
+### Link
+
 <hr/>
+
+
 ## Architecture
 
 ![image](https://user-images.githubusercontent.com/48893036/162189441-14f99bf8-740a-497d-986d-136c32d5d371.png)
+
 <hr/>
 
 ## Tech & Platfrom
 
 ## 🔥이슈 및 트러블슈팅
+
+## more info
+
+<details>
+<summary>토글 접기/펼치기</summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
+
+<details>
+<summary>토글 접기/펼치기</summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
+
+<details>
+<summary>토글 접기/펼치기</summary>
+<div markdown="1">
+
+안녕
+
+</div>
+</details>
+
 <!--
 **Here are some ideas to get you started:**
 
