@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/48893036/162202797-b9d11385-d363-4872-8f69-361ba9fb6228.png)
+![image](https://user-images.githubusercontent.com/48893036/162229820-9e326ed6-dc87-4abd-8daa-89fa7ed2cd50.png)
 
 # it-coop
 
