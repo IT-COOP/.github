@@ -31,31 +31,15 @@
 
 ## 🔥이슈 및 트러블슈팅
 
+### 교훈
+
 ## more info
-
 <details>
-<summary>토글 접기/펼치기</summary>
+<summary> DB ERD </summary>
 <div markdown="1">
 
-안녕
+![image](https://user-images.githubusercontent.com/48893036/162195875-c367e352-da7b-4195-bd3b-33298abf7b43.png)
 
-</div>
-</details>
-
-<details>
-<summary>토글 접기/펼치기</summary>
-<div markdown="1">
-
-안녕
-
-</div>
-</details>
-
-<details>
-<summary>토글 접기/펼치기</summary>
-<div markdown="1">
-
-안녕
 
 </div>
 </details>
