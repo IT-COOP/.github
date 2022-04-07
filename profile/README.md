@@ -29,6 +29,15 @@
 
 ## Tech & Platfrom
 
+### front-end
+
+### back-end
+
+### design
+
+### tool
+
+
 ## 🔥이슈 및 트러블슈팅
 
 ### 교훈
