@@ -1,26 +1,26 @@
 ![image](https://user-images.githubusercontent.com/48893036/162188505-dc4b43b2-2f3c-4d94-8e84-65868cc4b2ef.png)
 
-H1 it-coop
-H2 it-coop 소개
+# it-coop
+## it-coop 소개
 <hr/>
 
-H2 핵심 기능
+## 핵심 기능
 
 
 <hr/>
-H2 프로젝트 소개
-H3 프로젝트 기간
+## 프로젝트 소개
+### 프로젝트 기간
 H3 MEMBER
 H3 
 <hr/>
-H2 Architecture
+## Architecture
 
 ![image](https://user-images.githubusercontent.com/48893036/162189441-14f99bf8-740a-497d-986d-136c32d5d371.png)
 <hr/>
 
-H2 Tech & Platfrom
+## Tech & Platfrom
 
-H2 🔥이슈 및 트러블슈팅
+## 🔥이슈 및 트러블슈팅
 <!--
 **Here are some ideas to get you started:**
 
