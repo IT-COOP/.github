@@ -2,10 +2,7 @@
 
 # it-coop
 
-## it-coop 소개
-
-
-## 핵심 기능
+# it-coop 소개
 
 
 <hr/>
