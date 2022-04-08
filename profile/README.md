@@ -28,6 +28,24 @@
 
 <hr/>
 
+### 사용 라이브러리
+
+<br>
+
+| 이름                               | 설명                                    |
+| ---------------------------------- | --------------------------------------- |
+| <center>`React Query` </center>    | <center>서버 상태 관리</center>         |
+| <center>`Tailwind CSS`</center>    | <center>컴포넌트 스타일링</center>      |
+| <center>`Axios`</center>           | <center>백엔드 서버와 통신</center>     |
+| <center>`socketIO` </center>       | <center>실시간 통신 구현</center>       |
+| <center>`NestJS`</center>          | <center>백엔드 서버 프레임워크</center> |
+| <center>`TypeORM`</center>         | <center>객체-관계 매핑</center>         |
+| <center>`Class-validator`</center> | <center>유효성 검사</center>            |
+| <center>`PM2`</center>             | <center>안정적인 서버 실행</center>     |
+| <center>`Artillery`</center>       | <center>부하 테스트</center>            |
+
+<hr/>
+
 ### 프로젝트 기간
 
 - 3월 3일 ~ 4월 9일 (38일)
@@ -36,39 +54,39 @@
 
 ### 기능
 
-#### 간단하고 안전한 회원가입
+> #### 간단하고 안전한 회원가입
+>
+> - 구글, 깃허브, 카카오를 통한 소셜 로그인으로 간단하고 안전하게 회원가입 할 수 있어요!
+>
+> #### 😃 나를 나타내는 프로필
+>
+> - 나를 어필하는 프로필을 작성 할 수 있어요!
+>
+> #### 😃 원하는 게시물을 필터 기능으로 간편하게
+>
+> - 지역, 직군, keep 많이 한 게시물, 최신 순 별로 프로젝트 게시물을 확인할 수 있어요!
+>
+> #### 😃 원하는 포지션에 참가 신청하고 함께하는 사람들의 정보 확인
+>
+> - 참여하고 싶은 프로젝트에 원하는 포지션으로 참가 신청이 가능해요
+> - 같이 프로젝트에 참여하는 사람들의 프로필을 확인할 수 있어요
+>
+> #### 😳 할지 말지 고민될 때는 바로 KEEP IT!
+>
+> - 고민되는 게시물 혹은 참고하고 싶은 게시물을 keep 할 수 있어요
+>   👉 나중에 keep한 게시물은 한번에 모아볼 수 있어요!!
+>
+> #### 😜 원활한 프로젝트를 위해 팀원들과 소통하기
+>
+> - 진행 중인 프로젝트의 팀 별 메신저 기능을 제공해드려요
+>
+> #### 🤠 ”다음에 또 협업 하고 싶어요!” 함께한 팀원 평가하기
+>
+> - 프로젝트 종료 후 팀원들에 대한 평가를 할 수 있어요!
 
-- 구글, 깃허브, 카카오를 통한 소셜 로그인으로 간단하고 안전하게 회원가입 할 수 있어요!
-
-#### 😃 나를 나타내는 프로필
-
-- 나를 어필하는 프로필을 작성 할 수 있어요!
-
-#### 😃 원하는 게시물을 필터 기능으로 간편하게
-
-- 지역, 직군, keep 많이 한 게시물, 최신 순 별로 프로젝트 게시물을 확인할 수 있어요!
-
-#### 😃 원하는 포지션에 참가 신청하고 함께하는 사람들의 정보 확인
-
-- 참여하고 싶은 프로젝트에 원하는 포지션으로 참가 신청이 가능해요
-- 같이 프로젝트에 참여하는 사람들의 프로필을 확인할 수 있어요
-
-#### 😳 할지 말지 고민될 때는 바로 KEEP IT!
-
-- 고민되는 게시물 혹은 참고하고 싶은 게시물을 keep 할 수 있어요
-  👉 나중에 keep한 게시물은 한번에 모아볼 수 있어요!!
-
-#### 😜 원활한 프로젝트를 위해 팀원들과 소통하기
-
-- 진행 중인 프로젝트의 팀 별 메신저 기능을 제공해드려요
-
-#### 🤠 ”다음에 또 협업 하고 싶어요!” 함께한 팀원 평가하기
-
-- 프로젝트 종료 후 팀원들에 대한 평가를 할 수 있어요!
-<hr/>
+ <hr/>
 
 ## 🛠 Tools
-
 
 #### 디자인
 
@@ -79,10 +97,9 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
-<p/>
+</p>
 
 #### backEnd
-
 
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -97,9 +114,9 @@
   <img src="https://img.shields.io/badge/AWS Ec2-232F3E?style=for-the-badge&  logo=amazonaws&logoColor=white">
    <img src="https://img.shields.io/badge/socket.io-ffffff?style=for-the-badge&logo=socket.io&logoColor=black">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-<br>
-<p/>
 
+<br>
+</p>
 
 #### frontEnd
 
@@ -119,19 +136,19 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/CloudFront-D05C4B?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-<p/>
-
+</p>
 
 #### Dev tools
 
-
-<p>
+<p> 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 <br>
-<p/>
+
 <hr>
+
+## 🤓팀원 소개
 
 | 이름       | 포지션       | 깃허브 or 개인 블로그          |
 | ---------- | ------------ | ------------------------------ |
@@ -145,6 +162,20 @@
 
 ## 🔥이슈 및 트러블슈팅
 
+> 1.  **대댓글 구현 문제**
+>
+> - 대댓글을 구현함에 있어 DB에 댓글의 group과 depth를 저장하는 방식으로 구현
+> - 이를 프론트에서 그리기 위해서는 일차원 배열을 Tree 구조로 바꾸어야 하는 문제 발생
+> - 이중 for 문을 사용하여 구현하였는데, 시간 복잡도가 O(n²)
+> - Tree 구조로 ORM을 작성하여 구현하는 경우 매핑이 오래 걸릴 것으로 판단
+> - 현재 로직은 시간 순서대로 저장된 댓글과 대 댓글을 한번에 받아서 O(n)시간 안에 뷰를 그리는 로직으로 변경
+>
+> 2.  **부하 테스트**
+>
+> - Artillery 라이브러리를 사용하여 부하 테스트를 진행
+> - 요청이 많아지면 정상적으로 response를 받을 수 없는 문제가 발생
+> - MySQL에서 Query문이 실행되는 속도가 느린 것으로 판단
+> - Indexing을 실시 후명령 실행 속도 개선 확인
 
 ## more info
 
@@ -157,3 +188,10 @@
 </div>
 </details>
 
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
