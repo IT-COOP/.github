@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/82748285/162229805-ae28866d-0da7-4e36-9f53-b3d81d83443d.png)
 
-# 🤔[ItCoop][itcooplink]
+# 🤔[IT-COOP][itcooplink]
 
-[itcooplink]: https://it-coop.co.kr 'go itCoop'
+[IT-COOP LINK]: https://it-coop.co.kr 'go itCoop'
 
 #### 사이드 프로젝트와 창업을 위한 사람들의 커뮤니티
 
