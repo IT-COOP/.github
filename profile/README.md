@@ -2,7 +2,7 @@
 
 # 🤔[IT-COOP][itcooplink]
 
-[IT-COOP LINK]: https://it-coop.co.kr 'go itCoop'
+[itcooplink]: https://it-coop.co.kr 'go itCoop'
 
 #### 사이드 프로젝트와 창업을 위한 사람들의 커뮤니티
 
